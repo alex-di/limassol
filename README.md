@@ -6,10 +6,11 @@ Come and hang out with engineers, developers, hobbyist, and people just interest
 
 ## Want to hang out?
 
-We will be meeting on the **Last Thursday** of the month at *6:30pm*. The current home for all of our events will be [Bono](https://g.page/BonoBarAndRestaurant?share) near the pentadromos.
+We will be meeting on the **monthly polled date** at *7:30pm*. The current home for all of our events will be [Bono](https://g.page/BonoBarAndRestaurant?share) near the pentadromos.
 
 ## Want to join?
 
+Join the [Telegram channel](https://t.me/beerjs_limassol)
 Join the [Cyprus Developer Community](https://cdc.cy)
 
 ## Why Github?
@@ -21,3 +22,4 @@ Join the [Cyprus Developer Community](https://cdc.cy)
 ## Organizers
 
 *  Michael Bashurov ([Github](https://github.com/saitonakamura) [Twitter](https://twitter.com/saitonakamura))
+*  Alex Di ([Github](https://github.com/alex-di) [Twitter](https://twitter.com/mad-di))
